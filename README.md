@@ -16,7 +16,7 @@
 4)Open to working with anyone
 <br>
 
-Langusages I use: HTML/C++
+Langusages I use: C, C++, HTML, CSS, JavaScript, Express, Node.js
 
 
 <!-- - 👯 I’m looking to collaborate on : -->
