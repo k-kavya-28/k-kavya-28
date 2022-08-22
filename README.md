@@ -10,13 +10,12 @@
 2)I love to sleep and play piano
 <br>
 3)Currently learning DSA & WEB-DEV
-<br>
 <!-- 4)Web Developer(MERN Stack) -->
 <br>
 4)Open to working with anyone
 <br>
 
-Langusages I use: C, C++, HTML, CSS, JavaScript, Express, Node.js
+Langusages I use: C, C++, HTML, CSS, JavaScript, MongoDb, Express, Node.js
 
 
 <!-- - 👯 I’m looking to collaborate on : -->
