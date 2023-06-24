@@ -1,11 +1,8 @@
 # 💫About Me :
-I'm currently working on Scripting and Automation
-I'm looking to collaborate on Web development projects
-I'm looking for help with Data Structures &  Algorithms
-I'm currently learning MERN
-Ask me about Web Development
-Fun fact : Linux is far superior
-How to reach me khushi.kavya6910@gmail.com
+Currently in my third year of pursuing a BE in Computer Science and Business Systems at Thapar Institute of
+Engineering and Technology, Patiala, I have embarked on a journey into the software industry driven by my
+profound passion for development and automation. Eager to harness and challenge my skills, I actively seek
+opportunities to apply my expertise in order to push the boundaries of innovation.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.kavya.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-kavya-6874b4245) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/khushi_kavya) 
