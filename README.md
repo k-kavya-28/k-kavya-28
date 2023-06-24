@@ -1,13 +1,13 @@
 
-# Hi there 👋,
+# Hi there 👋
 
 ## I am Khushi Kavya
 
 ![Profile views](https://gpvc.arturio.dev/k-kavya-28)  
 <br>
-1)I am a CS student at Thapar University
+1)I am a 3rd year Computer Science student at Thapar Institute of Engineering and Technology
 <br>
-2)I love to sleep and play piano
+2)I love to sleep, code and play piano
 <br>
 3)Currently learning DSA & WEB-DEV
 <!-- 4)Web Developer(MERN Stack) -->
@@ -15,7 +15,7 @@
 4)Open to working with anyone
 <br>
 
-Langusages I use: C, C++, HTML, CSS, JavaScript, MongoDb, Express, Node.js
+Langusages I use: C, C++, HTML, CSS, JavaScript, MongoDb, Express, Node.js, Bootstrap, React.js
 
 
 <!-- - 👯 I’m looking to collaborate on : -->
