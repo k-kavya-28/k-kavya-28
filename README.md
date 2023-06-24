@@ -1,11 +1,11 @@
 # 💫About Me :
-telescope I'm currently working on Scripting and Automation
-dancers I'm looking to collaborate on Web development projects
-handshake I'm looking for help with Data Structures &  Algorithms
-seedling I'm currently learning MERN
-speech_balloon Ask me about Web Development
-zap Fun fact : Linux is far superior
-mailbox How to reach me khushi.kavya6910@gmail.com
+I'm currently working on Scripting and Automation
+I'm looking to collaborate on Web development projects
+I'm looking for help with Data Structures &  Algorithms
+I'm currently learning MERN
+Ask me about Web Development
+Fun fact : Linux is far superior
+How to reach me khushi.kavya6910@gmail.com
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.kavya.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-kavya-6874b4245) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/khushi_kavya) 
