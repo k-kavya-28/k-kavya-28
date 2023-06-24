@@ -21,3 +21,8 @@ opportunities to apply my expertise in order to push the boundaries of innovatio
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
+
