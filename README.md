@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=k-kavya-28&icon=7&color=0)](https://visitcount.itsvg.in)
+
 # 💫About Me :
 Currently in my third year of pursuing a BE in Computer Science and Business Systems at Thapar Institute of
 Engineering and Technology, Patiala, I have embarked on a journey into the software industry driven by my
@@ -19,9 +21,3 @@ opportunities to apply my expertise in order to push the boundaries of innovatio
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=k-kavya-28&icon=7&color=0)](https://visitcount.itsvg.in)
