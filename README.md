@@ -1,5 +1,5 @@
 # 💫About Me :
-Currently in my third year of pursuing a BE in Computer Science and Business Systems at Thapar Institute of
+Currently in final year of pursuing a BE in Computer Science and Business Systems at Thapar Institute of
 Engineering and Technology, Patiala, I have embarked on a journey into the software industry driven by my
 profound passion for development and automation. Eager to harness and challenge my skills, I actively seek
 opportunities to apply my expertise in order to push the boundaries of innovation.
